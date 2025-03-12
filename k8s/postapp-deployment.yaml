@@ -15,7 +15,7 @@ spec:
     spec:      
       containers:
         - name: post-container
-          image: hjpush/postapp:762d17e8adf4aa91774b0e192cd19934aba9d75e
+          image: hjpush/postapp:6f05d3d3fc2ebb53de53c4eb223b7e445e907174
           ports:
             - containerPort: 8080
           
